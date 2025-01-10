@@ -1,0 +1,15 @@
+body { 
+	color: #000; }
+.content {
+	width: 882px; } 
+img.logo { 
+	content:url("../img/logo-white.jpg"); 
+	width: 800px;
+	height: 558px; }
+.social img { 
+	display: none; }
+a.button { 
+	border-color: #000;
+	color: #000; }
+address a { 
+	color: #000; }
